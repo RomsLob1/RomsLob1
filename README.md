@@ -2,7 +2,7 @@
 
 <p style="margin: 15px;" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&duration=2500&pause=1000&color=56E3F7&center=true&width=435&lines=Developper+Backend;Game+Developper;Student+at+the+IUT+of+Reims" alt="Typing SVG" /></a>
-    <h3 align="center">I'm web developper and game developper</h3>
+    <h3 align="center">I'm web and game developper</h3>
 </p>
 
 - 📫 How to reach me **lobreau.romain@gmail.com**
